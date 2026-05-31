@@ -42,7 +42,3 @@ Apply relevant styling using CSS, implementing a responsive design for various s
 
 ## Document and Maintain
 * Add project to github. Commit and push further changes.
-
-
-
-
